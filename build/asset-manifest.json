@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/task1wordcounter/static/css/main.073c9b0a.css",
+    "main.js": "/task1wordcounter/static/js/main.126c76e4.js",
+    "static/js/787.dff18a6d.chunk.js": "/task1wordcounter/static/js/787.dff18a6d.chunk.js",
+    "static/media/logo.svg": "/task1wordcounter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/task1wordcounter/index.html",
+    "main.073c9b0a.css.map": "/task1wordcounter/static/css/main.073c9b0a.css.map",
+    "main.126c76e4.js.map": "/task1wordcounter/static/js/main.126c76e4.js.map",
+    "787.dff18a6d.chunk.js.map": "/task1wordcounter/static/js/787.dff18a6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.126c76e4.js"
+  ]
+}
